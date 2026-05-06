@@ -1,0 +1,27 @@
+# Node
+node_modules/
+node/
+node.zip
+npm-debug.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.env
+archeo.db
+venv/
+.venv/
+
+# Build
+dist/
+build/
+
+# Logs
+logs/
+*.log
+
+# IDE files
+.vscode/
+.idea/
+.DS_Store
